@@ -1,0 +1,18 @@
+body {
+  
+  font-family: helvetica neue;
+  text-align: center;
+  font-size: 1.5em;
+  margin: 50px auto;
+}
+
+.answer li {
+   list-style: none;
+}
+
+.text {
+  text-align: center;
+  height: 200px;
+  width: 600px;
+  margin: 0px auto;
+}
